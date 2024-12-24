@@ -32,7 +32,7 @@ Python is a versatile language widely used in fields like web development, data 
 ## 🌟 How You Can Support
 - ⭐ **Star** this repository if you find my journey inspiring!
 - 🐞 Found a bug or have a suggestion? Feel free to open an issue or submit a pull request.
-- 💬 Share your feedback, encouragement, or ideas in the [Discussions](https://github.com/your-username/100-Days-of-Python/discussions) section.
+- 💬 Share your feedback, encouragement, or ideas in the [Discussions](https://github.com/saidulislam2003/100-Days-of-Python/discussions) section.
 
 ## 📝 License
 This repository is licensed under the MIT License. Feel free to use the code and concepts shared here, but give credit where it's due! 😊
