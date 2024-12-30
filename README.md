@@ -1,5 +1,5 @@
 # 100 Days of Python 🐍
-![Cover Image](200.gif)
+![Cover Image](python-banner.png)
 
 Welcome to the **100 Days of Python** repository! 🎉
 
