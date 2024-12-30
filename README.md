@@ -1,5 +1,5 @@
 # 100 Days of Python 🐍
-
+![Cover Image](200.gif)
 Welcome to the **100 Days of Python** repository! 🎉
 
 This repository documents my journey of learning Python programming over 100 days. My goal is to practice daily, improve my coding skills, and build meaningful projects while sharing everything I learn along the way.
